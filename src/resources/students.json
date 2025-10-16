@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "course": "Programming",
+        "preferred_time": "19:28"
+    },
+    {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "course": "Mathematics",
+        "preferred_time": "19:29"
+    },
+    {
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "course": "Physics",
+        "preferred_time": "19:30"
+    },
+    {
+        "name": "Diana",
+        "email": "diana@example.com",
+        "course": "Chemistry",
+        "preferred_time": "19:31"
+    },
+    {
+        "name": "Ethan",
+        "email": "ethan@example.com",
+        "course": "Biology",
+        "preferred_time": "19:32"
+    },
+    {
+        "name": "Fiona",
+        "email": "fiona@example.com",
+        "course": "History",
+        "preferred_time": "19:33"
+    }
+]

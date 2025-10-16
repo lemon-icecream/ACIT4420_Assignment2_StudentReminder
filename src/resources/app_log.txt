@@ -1,0 +1,24 @@
+2025-10-16 22:18:18.947698 - Starting application in test mode...
+2025-10-16 22:18:18.947988 - The following student is in the record: Name: Alice, Email: alice@example.com, Course: Programming, Preferred Time: 22:37
+2025-10-16 22:18:18.948049 - The following student is in the record: Name: Bob, Email: bob@example.com, Course: Mathematics, Preferred Time: 22:38
+2025-10-16 22:18:18.948093 - The following student is in the record: Name: Charlie, Email: charlie@example.com, Course: Physics, Preferred Time: 22:39
+2025-10-16 22:18:18.948142 - Generated a reminder for Alice: Hi Alice, remember to review Programming materials before the deadline!
+2025-10-16 22:18:18.948182 - Generated a reminder for Bob: Hi Bob, remember to review Mathematics materials before the deadline!
+2025-10-16 22:18:18.948226 - Generated a reminder for Charlie: Hi Charlie, remember to review Physics materials before the deadline!
+2025-10-16 22:18:18.948264 - Sent to Alice (alice@example.com): Hi Alice, remember to review Programming materials before the deadline!
+2025-10-16 22:18:18.948297 - Sent to Bob (bob@example.com): Hi Bob, remember to review Mathematics materials before the deadline!
+2025-10-16 22:18:18.948334 - Sent to Charlie (charlie@example.com): Hi Charlie, remember to review Physics materials before the deadline!
+2025-10-16 22:18:18.948387 - Shutdown application
+2025-10-16 22:18:23.039369 - Starting application...
+2025-10-16 22:18:23.040519 - The following student is in the record: Name: Alice, Email: alice@example.com, Course: Programming, Preferred Time: 19:28
+2025-10-16 22:18:23.040580 - The following student is in the record: Name: Bob, Email: bob@example.com, Course: Mathematics, Preferred Time: 19:29
+2025-10-16 22:18:23.040615 - The following student is in the record: Name: Charlie, Email: charlie@example.com, Course: Physics, Preferred Time: 19:30
+2025-10-16 22:18:23.040646 - The following student is in the record: Name: Diana, Email: diana@example.com, Course: Chemistry, Preferred Time: 19:31
+2025-10-16 22:18:23.040674 - The following student is in the record: Name: Ethan, Email: ethan@example.com, Course: Biology, Preferred Time: 19:32
+2025-10-16 22:18:23.040702 - The following student is in the record: Name: Fiona, Email: fiona@example.com, Course: History, Preferred Time: 19:33
+2025-10-16 22:18:23.040743 - Generated a reminder for Alice: Hi Alice, remember to review Programming materials before the deadline!
+2025-10-16 22:18:23.040773 - Generated a reminder for Bob: Hi Bob, remember to review Mathematics materials before the deadline!
+2025-10-16 22:18:23.040802 - Generated a reminder for Charlie: Hi Charlie, remember to review Physics materials before the deadline!
+2025-10-16 22:18:23.040829 - Generated a reminder for Diana: Hi Diana, remember to review Chemistry materials before the deadline!
+2025-10-16 22:18:23.040858 - Generated a reminder for Ethan: Hi Ethan, remember to review Biology materials before the deadline!
+2025-10-16 22:18:23.040885 - Generated a reminder for Fiona: Hi Fiona, remember to review History materials before the deadline!

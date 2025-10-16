@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ACIT4420_Assignment2_MaiVu
+Version: 0.1
+Summary: ACIT4420 - Assignment 2
+Author: Mai Vu
+Requires-Dist: schedule
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
